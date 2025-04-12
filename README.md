@@ -1,0 +1,1 @@
+This readme file is used to know about the project and folder structures, then best practices have to followed on the project
