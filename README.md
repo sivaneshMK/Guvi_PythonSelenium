@@ -34,6 +34,11 @@ it will improve code readability
 code maintainance is easy
 
 
+pip 
+----
+
+python package installer--> it will allow you to install, upgrade, remove python packages from the python package index pypi
+
 
 
 
